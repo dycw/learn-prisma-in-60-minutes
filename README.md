@@ -1,3 +1,3 @@
-# `template`
+# Learn Prisma in 60 Minutes (Web Dev Simplified)
 
-Template for generic repositories
+https://www.youtube.com/watch?v=RebA5J-rlwg
